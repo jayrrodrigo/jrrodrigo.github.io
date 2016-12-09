@@ -1,0 +1,10 @@
+{
+  "selectionColor": "#00FFFF",
+  "selectionMode": "partial",
+  "allowExport": true,
+  "geometryTypes": [
+    "POLYLINE",
+    "EXTENT",
+    "CIRCLE"
+  ]
+}
